@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shameel-anjillath
+- 👋 Hi, I’m Muhammed Shameel A
 - 👀 I’m interested in ...Frontend Developer, Software Developer, Software Testing, Web Developer, Cloud Computing 
 - 🌱 I’m currently learning ... Web developemt using python-django
 - 💞️ I’m looking to collaborate on ... Developer
